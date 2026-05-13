@@ -146,44 +146,32 @@ public class Conn {
 
 ---
 
-# 🖥 Suggested GUI Screens
-
-1. Login Page
-2. Home Dashboard
-3. Add Customer Form
-4. Meter Reading Form
-5. Generate Bill Page
-6. Payment Page
-7. View Bill History
-
----
-
 # 📁 Recommended Project Structure
 
 ```text
 ElectricityBillingSystem/
 │
 ├── src/
-│
-├── BillDetails.java
-├── CalculateBill.java
-├── Conn.java
-├── CustomerDetails.java
-├── DepositeDetails.java
-├── GenerateBill.java
-├── Login.java
-├── MeterInfo.java
-├── NewCustomer.java
-├── PayBill.java
-├── Paytm.java
-├── Project.java
-├── Signup.java
-├── Splash.java
-├── UpdateInformation.java
-└── ViewInformation.java
+     └── BillDetails.java
+     └── CalculateBill.java
+     └── Conn.java
+     └── CustomerDetails.java
+     └── DepositeDetails.java
+     └── GenerateBill.java
+     └── Login.java
+     └── MeterInfo.java
+     └── NewCustomer.java
+     └── PayBill.java
+     └── Paytm.java
+     └── Project.java
+     └── Signup.java
+     └── Splash.java
+     └── UpdateInformation.java
+     └── ViewInformation.java
 │
 ├── lib/
 │   └── mysql-connector-java-8.0.28.jar
+|   └── rs2xml.jar
 │
 └── database/
     └── electricitybilling.sql
@@ -215,7 +203,6 @@ ElectricityBillingSystem/
 
 # 💡 Extra Features You Can Add
 
-* PDF Bill Generation
 * Email Bill Notification
 * Admin Dashboard Charts
 * User Login Authentication
