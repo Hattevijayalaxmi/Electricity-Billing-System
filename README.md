@@ -168,7 +168,40 @@ ElectricityBillingSystem/
      └── Splash.java
      └── UpdateInformation.java
      └── ViewInformation.java
-│
+├── Icon
+     └── abc1.jpg
+     └── abc2.jpg
+     └── abc3.png
+     └── abc4.png
+     └── abc5.jpg
+     └── abc6.png
+     └── bill.png
+     └── cancel.jpg
+     └── elect.jpg
+     └── elect.jpg
+     └── hicon1.jpg
+     └── hicon2.jpg
+     └── icon1.png
+     └── icon2.png
+     └── icon3.png
+     └── icon4.png
+     └── icon5.png
+     └── icon6.png
+     └── icon7.png
+     └── icon8.png
+     └── icon9.png
+     └── icon10.png
+     └── icon11.png
+     └── icon12.png
+     └── line.jpg
+     └── login.png
+     └── pop.png
+     └── second.jpg
+     └── signup.png
+     └── signupImage.png
+     └── update.jpg
+     └── update.png
+     └── viewcustomer.jpg
 ├── lib/
 │   └── mysql-connector-java-8.0.28.jar
 |   └── rs2xml.jar
